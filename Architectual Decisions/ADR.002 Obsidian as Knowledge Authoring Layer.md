@@ -62,4 +62,4 @@ Rejected because it introduces unnecessary tool dependency.
 
 [[EID.08 Knowledge Intelligence]]
 
-[[OP.001 Knowledge Layer Assistant]]
+[[OP.001 Knowledge Intelligence Service]]

@@ -36,6 +36,6 @@ AI sessions can be converted into structured knowledge objects with minimal manu
 
 [[PLB.002 Session-to-Knowledge Extraction]]
 
-[[OP.001 Knowledge Layer Assistant]]
+[[OP.001 Knowledge Intelligence Service]]
 
 [[LRN.001 Context Beats Prompting]]

@@ -210,6 +210,6 @@ Not Started
 
 [[PLB.003 Knowledge Object Creation]]
 
-[[OP.001 Knowledge Layer Assistant]]
+[[OP.001 Knowledge Intelligence Service]]
 
 ---

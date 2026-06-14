@@ -68,7 +68,7 @@ Synchronization mechanisms shall remain separate from governance and knowledge s
 
 Knowledge object identifiers shall not use reserved Windows device names.
 
-Examples:
+Examples include:
 
 - CON
 - PRN

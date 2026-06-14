@@ -88,6 +88,10 @@ Knowledge Template Standards become the authoritative creation mechanism.
 
 Knowledge validation becomes a mandatory lifecycle step.
 
+Knowledge Object Creation may be executed through Knowledge Intelligence Services.
+
+Knowledge Template Standards remain the authoritative source for object generation and validation.
+
 ## Alternatives Considered
 
 ### Direct Manual Authoring

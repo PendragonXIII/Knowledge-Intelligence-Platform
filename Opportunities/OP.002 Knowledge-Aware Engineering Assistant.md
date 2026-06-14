@@ -40,6 +40,6 @@ Engineering recommendations incorporate repository knowledge and knowledge layer
 
 [[EID.08 Knowledge Intelligence]]
 
-[[OP.001 Knowledge Layer Assistant]]
+[[OP.001 Knowledge Intelligence Service]]
 
 [[ADR.001 Knowledge Intelligence belongs to Engineering Intelligence]]

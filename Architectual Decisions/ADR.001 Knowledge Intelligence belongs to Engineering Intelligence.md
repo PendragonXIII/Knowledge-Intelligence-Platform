@@ -65,6 +65,6 @@ Rejected because the capability concerns knowledge management and AI context man
 
 [[EID.04 Governance Intelligence]]
 
-[[OP.001 Knowledge Layer Assistant]]
+[[OP.001 Knowledge Intelligence Service]]
 
 [[OP.002 Knowledge-Aware Engineering Assistant]]

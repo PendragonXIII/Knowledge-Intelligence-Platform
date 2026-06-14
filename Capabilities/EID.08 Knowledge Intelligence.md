@@ -120,6 +120,21 @@ Establish the ability to:
 - support roadmap development
 - support opportunity management
 
+### O9 – Knowledge Intelligence Services
+
+Establish services that provide structured access to the Knowledge Layer.
+
+Services may support:
+
+- knowledge retrieval
+- knowledge validation
+- relationship analysis
+- context assembly
+- knowledge object creation
+- knowledge object maintenance
+
+Knowledge Intelligence Services provide the operational interface between AI agents and the Knowledge Repository.
+
 ## Scope
 
 ### In Scope
@@ -133,6 +148,7 @@ Establish the ability to:
 - Context Assembly
 - Knowledge Synchronization
 - Engineering Decision Support
+- Knowledge Intelligence Services
 
 ### Out of Scope
 
