@@ -1,5 +1,3 @@
-# OP.007 Knowledge Object Creation Capability
-
 ## Status
 
 Proposed
