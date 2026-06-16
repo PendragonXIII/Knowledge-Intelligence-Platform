@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contraints/CNS.005 Knowledge Object Standards.md",
+                "file": "Architectual Decisions/ADR.003 Knowledge Object Creation Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CNS.005 Knowledge Object Standards"
+              "title": "ADR.003 Knowledge Object Creation Architecture"
+            }
+          },
+          {
+            "id": "5d20dd88111e36e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architectual Decisions/ADR.004 Knowledge Intelligence Service Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ADR.004 Knowledge Intelligence Service Architecture"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,13 +198,15 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "9a7bd4beb5c8470f",
+  "active": "fb8ba3032e08cea8",
   "lastOpenFiles": [
+    "Architectual Decisions/ADR.003 Knowledge Object Creation Architecture.md",
+    "Architectual Decisions/ADR.004 Knowledge Intelligence Service Architecture.md",
+    "Contraints/CNS.005 Knowledge Object Standards.md",
     "Opportunities/OP.001 Knowledge Intelligence Service.md",
     "Capabilities/EID.08 Knowledge Intelligence.md",
     "Playbooks/PLB.005 Knowledge Intelligence Service Lifecycle.md",
     "Contraints/CNS.006 Git-Managed Knowledge Repository.md",
-    "Architectual Decisions/ADR.003 Knowledge Object Creation Architecture.md",
     "Capabilities/EID.05 Risk & Decision Intelligence.md",
     "Opportunities/OP.004 Engineering Decision Intelligence.md",
     "EID.05 Opportunity Intelligence.md",
@@ -208,8 +225,6 @@
     "OP.005 AI Context Pack Generation.md",
     "OP.001 Knowledge Layer Assistant.md",
     "LRN.003 Knowledge Creation Before Automation.md",
-    "LRN.002 Knowledge Objects Beat Documents.md",
-    "Templates/KTS.007 Roadmap Standard.md",
-    "LRN.001 Context Beats Prompting.md"
+    "LRN.002 Knowledge Objects Beat Documents.md"
   ]
 }
