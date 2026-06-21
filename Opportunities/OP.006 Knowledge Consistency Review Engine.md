@@ -1,6 +1,6 @@
 ## Status
 
-Proposed
+In Progress
 
 ## Problem
 
@@ -41,3 +41,7 @@ Consistency reviews identify actionable findings and governance recommendations.
 [[CNS.004 Knowledge Must Remain AI Consumable]]
 
 [[PLB.002 Session-to-Knowledge Extraction]]
+
+[[PLB.010 Repository Consistency Review]]
+
+[[OP.014 Knowledge Validation Service]]
