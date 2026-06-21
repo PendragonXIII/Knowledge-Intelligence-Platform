@@ -64,11 +64,28 @@ Every governed Knowledge Object Type should be defined by a corresponding KTS st
 
 Assistant Profiles are valid Knowledge Objects and shall follow KTS.009 Assistant Profile Standard.
 
+### V8
+
+Governed activities should be executed through their corresponding Playbooks whenever available.
+
+Before execution:
+
+1. Identify activity type.
+2. Identify governing Playbook.
+3. Load Playbook.
+4. Execute activity.
+
 ## Related
 
 [[KTS.009 Assistant Profile Standard]]
 
+[[KTS.010 Knowledge Object Identifier Standard]]
+
+[[LRN.015 Playbook-Driven Execution]]
+
 [[CNS.005 Knowledge Object Standards]]
+
+[[PLB.000 Knowledge Session Initialization]]
 
 [[PLB.003 Knowledge Object Creation]]
 
