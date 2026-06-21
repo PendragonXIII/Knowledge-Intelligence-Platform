@@ -1,6 +1,6 @@
 ## Status
 
-Proposed
+In Progress
 
 ## Problem
 
@@ -36,3 +36,7 @@ Synchronization reviews identify inconsistencies and missing updates.
 [[CNS.003 Avoid Duplicate Knowledge Ownership]]
 
 [[CNS.001 Knowledge Source of Truth]]
+
+[[PLB.010 Repository Consistency Review]]
+
+[[OP.006 Knowledge Consistency Review Engine]]
