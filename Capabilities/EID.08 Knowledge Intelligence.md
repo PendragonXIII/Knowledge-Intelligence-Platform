@@ -8,7 +8,7 @@ Build and maintain an AI-consumable knowledge layer that improves context qualit
 
 ## Current State
 
-Proposed
+Operational
 
 ## North Star
 
