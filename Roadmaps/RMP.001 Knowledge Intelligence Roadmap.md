@@ -20,7 +20,7 @@ Create an AI-consumable knowledge layer that captures engineering reasoning, pre
 
 ### Status
 
-In Progress
+Completed
 
 ### Objective
 
@@ -50,7 +50,7 @@ Establish the initial knowledge model, governance structure and knowledge graph.
 
 ### Status
 
-Not Started
+In Progress
 
 ### Objective
 
@@ -71,7 +71,7 @@ Create a repeatable process for converting AI sessions into structured knowledge
 
 ### Status
 
-Not Started
+In Progress
 
 ### Objective
 
@@ -94,7 +94,7 @@ Establish repeatable governance and quality assurance for the knowledge layer.
 
 ### Status
 
-Not Started
+In Progress
 
 ### Objective
 
@@ -115,7 +115,7 @@ Transform the knowledge layer into a reusable AI context source.
 
 ### Status
 
-Not Started
+In Progress
 
 ### Objective
 
@@ -137,7 +137,7 @@ Synchronize repository intelligence and knowledge intelligence.
 
 ### Status
 
-Not Started
+In Progress
 
 ### Objective
 
@@ -159,34 +159,37 @@ Enable AI-assisted engineering planning, prioritization and decision support.
 
 ### Phase 1
 
-Estimated Completion: 75–85%
-
-Remaining Work:
-
-- Create CNS.005 Knowledge Object Standards
-- Create PLB.003 Knowledge Object Creation
-- Create all Knowledge Object Templates
-- Review EID capabilities against the approved schema
+Completed
 
 ### Phase 2
 
-Not Started
+In Progress
+
+Session-to-Knowledge extraction is actively used and validated through repository-backed governance workflows.
 
 ### Phase 3
 
-Not Started
+In Progress
+
+Governance, consistency, relationship and standards reviews are actively performed.
 
 ### Phase 4
 
-Not Started
+In Progress
+
+Knowledge sessions routinely initialize and assemble context from governance artifacts.
 
 ### Phase 5
 
-Not Started
+In Progress
+
+Repository synchronization and consistency reviews are actively executed.
 
 ### Phase 6
 
-Not Started
+In Progress
+
+Engineering prioritization and architectural decision support are actively informed by the knowledge layer.
 
 ---
 
