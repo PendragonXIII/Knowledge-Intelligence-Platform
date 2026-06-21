@@ -1,6 +1,6 @@
 ## Status
 
-Proposed
+In Progress
 
 ## Problem
 
@@ -40,3 +40,9 @@ AI assistants can receive structured context packs with minimal manual preparati
 [[CNS.002 AI Context Before Prompting]]
 
 [[LRN.001 Context Beats Prompting]]
+
+[[PLB.000 Knowledge Session Initialization]]
+
+[[OP.012 Knowledge Retrieval Service]]
+
+[[OP.013 Knowledge Search Service]]
