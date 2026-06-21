@@ -1,8 +1,8 @@
 ## Status
 
-Superseded
+Historical
 
-## Superseded By
+## Related Evolution
 
 [[ADR.008 Assistant-Specific Capability Domains]]
 
@@ -32,12 +32,13 @@ It shall not be introduced as an independent top-level capability.
 
 Knowledge Intelligence primarily serves engineering workflows and AI-assisted engineering decision making.
 
-Its responsibilities naturally extend existing Engineering Intelligence capabilities.
+Its responsibilities naturally extend existing Engineering Intelligence capabilities through knowledge management, governance and context assembly.
 
-## Implications
+## Historical Note
 
-- Engineering Intelligence becomes the parent domain for Knowledge Intelligence.
-- Knowledge Intelligence becomes EID.08.
+This ADR documents the original placement of Knowledge Intelligence within Engineering Intelligence.
+
+The capability domain architecture later evolved through ADR.008.
 
 ## Related
 
