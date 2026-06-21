@@ -8,7 +8,7 @@ Provide structured retrieval of files, folders and metadata from Git-managed rep
 
 ## Current State
 
-Proposed
+Operational
 
 ## North Star
 
