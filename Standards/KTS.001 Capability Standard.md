@@ -2,25 +2,37 @@
 
 Define the standard structure and governance requirements for Capability knowledge objects.
 
+## Capability Domains
+
+Capabilities shall belong to a capability domain.
+
+Supported domains:
+
+- EID.xxx = Engineering Intelligence Domain
+- KID.xxx = Knowledge Intelligence Domain
+- GID.xxx = Garden Intelligence Domain
+
+Capability ownership shall align with ADR.008 Assistant-Specific Capability Domains.
+
 ## Mandatory Fields
 
 - Purpose
-- Current State    
-- North Star    
-- Outcomes    
-- Related    
+- Current State
+- North Star
+- Outcomes
+- Related
 
 ## Recommended Fields
 
-- Agentic Contribution    
-- Related Opportunities    
+- Agentic Contribution
+- Related Opportunities
 - Related Constraints
-    
+- Capability Domain
 
 ## Optional Fields
 
-- Scope    
-- Consumers    
+- Scope
+- Consumers
 
 ## Validation Rules
 
@@ -45,9 +57,14 @@ Recommended fields should be completed whenever sufficient information exists.
 ### V7
 Optional fields may be omitted.
 
+### V8
+Capability identifier prefix must match the owning capability domain.
+
 ## Template
 
 ### Purpose
+
+### Capability Domain
 
 ### Current State
 
@@ -79,12 +96,8 @@ Optional fields may be omitted.
 
 ## Related
 
+[[ADR.008 Assistant-Specific Capability Domains]]
+
+[[KTS.010 Knowledge Object Identifier Standard]]
+
 [[KTS.000 Knowledge Standard]]
-
-[[CNS.005 Knowledge Object Standards]]
-
-[[PLB.003 Knowledge Object Creation]]
-
-[[EID.02 Capability Intelligence]]
-
-[[EID.08 Knowledge Intelligence]]
