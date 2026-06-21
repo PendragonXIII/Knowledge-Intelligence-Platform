@@ -53,6 +53,10 @@ Recommended fields should be completed whenever sufficient information exists.
 
 Optional fields may be omitted.
 
+### V8
+
+Roadmaps may reference Roadmap Items defined by KTS.008.
+
 ## Template
 
 ### Purpose
@@ -98,6 +102,8 @@ Optional fields may be omitted.
 ## Related
 
 [[KTS.000 Knowledge Standard Standard]]
+
+[[KTS.008 Roadmap Item Standard]]
 
 [[CNS.005 Knowledge Object Standards]]
 
