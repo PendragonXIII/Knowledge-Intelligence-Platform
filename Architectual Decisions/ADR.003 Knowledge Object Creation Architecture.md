@@ -9,11 +9,13 @@ The Knowledge Layer has established:
 - CNS.005 Knowledge Object Standards
 - CNS.006 Git-Managed Knowledge Repository
 - KTS.000 Knowledge Standard Standard
-- KTS.001-KTS.007 Knowledge Template Standards
+- Knowledge Template Standards (KTS)
 
 Knowledge objects are currently created manually.
 
 Future Knowledge Intelligence capabilities require a repeatable and governed object creation workflow.
+
+The Knowledge Template Standard landscape continues to evolve and may expand over time.
 
 ## Decision
 
@@ -92,6 +94,8 @@ Knowledge Object Creation may be executed through Knowledge Intelligence Service
 
 Knowledge Template Standards remain the authoritative source for object generation and validation.
 
+New KTS standards may be introduced without requiring changes to this ADR.
+
 ## Alternatives Considered
 
 ### Direct Manual Authoring
@@ -115,5 +119,3 @@ Rejected due to governance and quality concerns.
 [[PLB.003 Knowledge Object Creation]]
 
 [[KTS.000 Knowledge Standard Standard]]
-
-[[OP.007 Knowledge Object Creation Capability]]
