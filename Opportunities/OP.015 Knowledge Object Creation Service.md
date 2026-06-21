@@ -1,6 +1,6 @@
 ## Status
 
-Proposed
+Partially Implemented
 
 ## Problem
 
@@ -73,3 +73,5 @@ Medium
 [[ADR.003 Knowledge Object Creation Architecture]]
 
 [[ADR.004 Knowledge Intelligence Service Architecture]]
+
+[[KTS.010 Knowledge Object Identifier Standard]]
