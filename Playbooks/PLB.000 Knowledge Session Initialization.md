@@ -2,10 +2,11 @@
 
 ## Purpose
 
-Establish the minimum governance, roadmap and operational context required before executing Knowledge Management activities.
+Establish the minimum governance and operational context required before executing Knowledge Management activities.
 
 ## Principles
 
+- Load repository evidence before interpretation.
 - Load context before analysis.
 - Prefer repository knowledge over GPT instructions.
 - Load the active Assistant Profile before substantive work.
@@ -17,15 +18,29 @@ Activity Identification
 ↓
 Assistant Profile Selection
 ↓
-Session Classification
-↓
 Playbook Identification
 ↓
 Playbook Loading
 ↓
+Repository Evidence Loading
+↓
 Context Expansion
 ↓
 Execution
+
+## Repository-First Interpretation
+
+For governance, architecture, taxonomy, capability ownership, object semantics and repository structure:
+
+Repository artifacts should be loaded before interpretation begins.
+
+Preferred sequence:
+
+Repository Evidence
+↓
+Analysis
+↓
+Recommendation
 
 ## Context Loading Strategy
 
@@ -35,18 +50,22 @@ Load:
 
 - KTS.000 Knowledge Standard
 - Current Knowledge Object Standards
-- Current Knowledge Object Types
 - Active Assistant Profile
 
-### Layer 2 – Strategic Context
+### Layer 2 – Repository Evidence
+
+Load repository artifacts required by the active Playbook.
+
+### Layer 3 – Strategic Context
 
 Load:
 
 - Active Roadmaps
 - Major Capabilities
-- Foundational Learnings
+- Relevant ADRs
+- Relevant Learnings
 
-### Layer 3 – Session Classification
+### Layer 4 – Session Classification
 
 Identify the primary activity and session type.
 
@@ -63,39 +82,34 @@ For every governed activity:
 1. Identify activity type.
 2. Identify governing Playbook.
 3. Load Playbook.
-4. Execute activity.
-
-Examples:
-
-- Knowledge Object Creation → PLB.003
-- Knowledge Assessment → PLB.004
-- Session Initialization → PLB.000
+4. Load repository evidence required by the Playbook.
+5. Execute activity.
 
 ## Session Output Requirements
 
 Before execution verify:
 
-- standards reviewed
 - assistant profile loaded
 - governing playbook loaded
+- repository evidence reviewed
 - required context reviewed
 
 ## Success Criteria
 
 A session is initialized when:
 
-- governance context is loaded
 - assistant profile is loaded
 - activity is identified
 - governing playbook is identified
 - governing playbook is loaded
+- repository evidence is loaded
 - required context is available
 
 ## Related
 
-[[KTS.000 Knowledge Standard]]
-
 [[LRN.015 Playbook-Driven Execution]]
+
+[[LRN.016 Repository-First Interpretation]]
 
 [[ASP.001 Knowledge Assistant Profile]]
 
