@@ -4,8 +4,6 @@
 
 Define identifier allocation, naming conventions and validation requirements for Knowledge Objects.
 
----
-
 ## Mandatory Rules
 
 ### ID Uniqueness
@@ -25,9 +23,15 @@ Before creating a new Knowledge Object:
 3. Allocate the next available identifier.
 4. Validate naming conventions.
 
----
-
 ## Identifier Prefixes
+
+### Capabilities
+
+EID.xxx = Engineering Intelligence Domain
+
+KID.xxx = Knowledge Intelligence Domain
+
+GID.xxx = Garden Intelligence Domain
 
 ### Learnings
 
@@ -53,7 +57,13 @@ KTS.xxx
 
 PLB.xxx
 
----
+### Architecture Decisions
+
+ADR.xxx
+
+### Roadmaps
+
+RMP.xxx
 
 ## Validation Rules
 
@@ -73,9 +83,11 @@ Identifiers must be validated before object creation.
 
 Object type and identifier prefix must match.
 
----
-
 ## Related
+
+[[ADR.008 Assistant-Specific Capability Domains]]
+
+[[KTS.001 Capability Standard]]
 
 [[KTS.000 Knowledge Standard]]
 
