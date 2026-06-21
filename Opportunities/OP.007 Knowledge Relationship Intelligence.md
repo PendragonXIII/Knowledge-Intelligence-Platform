@@ -1,69 +1,46 @@
 ## Status
 
-Proposed
+In Progress
 
 ## Problem
 
-Knowledge Objects are currently created manually.
-
-The process requires repetitive authoring, manual validation and manual relationship management.
-
-This limits scalability and increases maintenance effort.
+Knowledge Objects contain relationships, but relationship quality depends on manual creation and maintenance.
 
 ## Opportunity
 
-Enable AI-assisted creation of governed Knowledge Objects.
+Provide AI-assisted relationship discovery, recommendation and validation.
 
-The capability shall:
+Potential capabilities include:
 
-- identify object types
-- load applicable KTS documents
-- generate compliant Knowledge Objects
-- validate compliance
-- recommend relationships
+- relationship recommendations
+- missing relationship detection
+- orphan detection
+- duplicate relationship detection
+- graph quality analysis
 
 ## Expected Benefits
 
-- reduced manual effort
-- improved consistency
-- improved governance compliance
-- faster knowledge growth
-- improved AI context quality
+- stronger knowledge graph quality
+- improved discoverability
+- better context assembly
+- reduced maintenance effort
 
 ## Success Criteria
 
-- Knowledge Objects can be generated from requests
-- Generated objects comply with KTS standards
-- Generated objects comply with CNS.005
-- Relationship recommendations are generated
-- Object creation effort is significantly reduced
-
-## Priority
-
-High
-
-## Effort Estimate
-
-Medium
-
-## Dependencies
-
-- CNS.005 Knowledge Object Standards
-- KTS.000-KTS.007
-- PLB.003 Knowledge Object Creation
-
-## Related Capabilities
-
-[[EID.08 Knowledge Intelligence]]
-
-## Related Constraints
-
-[[CNS.005 Knowledge Object Standards]]
-
-[[CNS.006 Git-Managed Knowledge Repository]]
+Relationship recommendations measurably improve graph connectivity and discoverability.
 
 ## Related
 
-[[ADR.003 Knowledge Object Creation Architecture]]
+[[EID.08 Knowledge Intelligence]]
+
+[[OP.001 Knowledge Intelligence Service]]
 
 [[PLB.003 Knowledge Object Creation]]
+
+[[ADR.003 Knowledge Objects as the Primary Unit of Knowledge]]
+
+[[PLB.013 Knowledge Object Modification]]
+
+[[LRN.014 Repository Object Creation Requires ID Validation]]
+
+[[KTS.010 Knowledge Object Identifier Standard]]
