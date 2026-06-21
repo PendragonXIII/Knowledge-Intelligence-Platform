@@ -56,7 +56,17 @@ Every KTS document must define Validation Rules.
 
 Every KTS document must provide a canonical template.
 
+### V6
+
+Every governed Knowledge Object Type should be defined by a corresponding KTS standard.
+
+### V7
+
+Assistant Profiles are valid Knowledge Objects and shall follow KTS.009 Assistant Profile Standard.
+
 ## Related
+
+[[KTS.009 Assistant Profile Standard]]
 
 [[CNS.005 Knowledge Object Standards]]
 
