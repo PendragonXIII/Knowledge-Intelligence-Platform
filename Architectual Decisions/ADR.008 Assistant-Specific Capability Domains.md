@@ -56,7 +56,7 @@ This approach:
 4. Update references.
 5. Validate repository consistency.
 
-## Supersedes
+## Evolves
 
 [[ADR.001 Knowledge Intelligence belongs to Engineering Intelligence]]
 
