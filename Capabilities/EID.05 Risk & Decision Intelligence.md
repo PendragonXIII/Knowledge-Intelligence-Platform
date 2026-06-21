@@ -4,7 +4,7 @@ Assess engineering risk, evaluate change impact and support engineering decision
 
 ## Current State
 
-Emerging
+Operational
 
 ## Responsibilities
 
