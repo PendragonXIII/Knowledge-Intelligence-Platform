@@ -1,6 +1,6 @@
 ## Status
 
-Proposed
+Partially Implemented
 
 ## Problem
 
@@ -68,3 +68,7 @@ Low
 [[OP.001 Knowledge Intelligence Service]]
 
 [[ADR.004 Knowledge Intelligence Service Architecture]]
+
+[[PLB.005 Knowledge Intelligence Service Lifecycle]]
+
+[[LRN.016 Repository-First Interpretation]]
