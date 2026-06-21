@@ -1,6 +1,6 @@
 ## Status
 
-Proposed
+In Progress
 
 ## Problem
 
@@ -39,3 +39,9 @@ AI sessions can be converted into structured knowledge objects with minimal manu
 [[OP.001 Knowledge Intelligence Service]]
 
 [[LRN.001 Context Beats Prompting]]
+
+[[LRN.015 Playbook-Driven Execution]]
+
+[[LRN.016 Repository-First Interpretation]]
+
+[[PLB.000 Knowledge Session Initialization]]
