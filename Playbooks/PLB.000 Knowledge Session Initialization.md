@@ -85,6 +85,11 @@ For every governed activity:
 4. Load repository evidence required by the Playbook.
 5. Execute activity.
 
+### Knowledge Object Lifecycle
+
+- Create new knowledge object → PLB.003 Knowledge Object Creation
+- Modify existing knowledge object → PLB.013 Knowledge Object Modification
+
 ## Session Output Requirements
 
 Before execution verify:
@@ -110,6 +115,10 @@ A session is initialized when:
 [[LRN.015 Playbook-Driven Execution]]
 
 [[LRN.016 Repository-First Interpretation]]
+
+[[PLB.003 Knowledge Object Creation]]
+
+[[PLB.013 Knowledge Object Modification]]
 
 [[ASP.001 Knowledge Assistant Profile]]
 
