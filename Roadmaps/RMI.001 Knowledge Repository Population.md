@@ -47,6 +47,10 @@ High
 
 In Progress
 
+## Validation
+
+This roadmap item was used to validate repository read and update capabilities through an end-to-end Knowledge Assistant workflow.
+
 ## Related
 
 [[RMP.001 Knowledge Intelligence Roadmap]]
