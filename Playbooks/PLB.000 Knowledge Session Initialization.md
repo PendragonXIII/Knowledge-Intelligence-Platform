@@ -13,6 +13,7 @@ The objective is to ensure that Knowledge Assistants begin each session with suf
 - Prefer repository knowledge over GPT instructions.
 - Use specialized playbooks for specialized activities.
 - Explicitly load deeper context when relationships extend beyond the default traversal depth.
+- Load the active Assistant Profile before beginning substantive work.
 
 ## Context Loading Strategy
 
@@ -23,10 +24,11 @@ Load first:
 - KTS.000 Knowledge Standard
 - Current Knowledge Object Standards (KTS)
 - Current Knowledge Object Types
+- Active Assistant Profile (ASP)
 
 Purpose:
 
-Establish governance rules and object taxonomy.
+Establish governance rules, object taxonomy and assistant behavior.
 
 ### Layer 2 – Strategic Context
 
@@ -54,6 +56,24 @@ Possible classifications:
 - Capability Development
 - Repository Maintenance
 
+## Assistant Profile Selection
+
+Identify and load the Assistant Profile associated with the current assistant.
+
+Examples:
+
+- Knowledge Assistant → ASP.001
+- Engineering Assistant → ASP.002
+- Garden Assistant → ASP.003
+
+Assistant Profiles govern:
+
+- reasoning behavior
+- communication style
+- visualization preferences
+- context loading preferences
+- session behavior
+
 ## Playbook Selection
 
 After classification, load the most relevant specialized playbook.
@@ -80,6 +100,7 @@ Before producing recommendations, reviews or governance decisions, verify that:
 
 - foundational standards have been considered
 - relevant playbooks have been loaded
+- active assistant profile has been loaded
 - strategic context has been reviewed
 - required related objects have been examined
 
@@ -88,6 +109,7 @@ Before producing recommendations, reviews or governance decisions, verify that:
 A session is considered initialized when:
 
 - governance context is loaded
+- assistant profile is loaded
 - strategic context is loaded
 - session type is identified
 - specialized playbook is selected
@@ -96,6 +118,14 @@ A session is considered initialized when:
 ## Related
 
 [[KTS.000 Knowledge Standard]]
+
+[[KTS.009 Assistant Profile Standard]]
+
+[[ASP.001 Knowledge Assistant Profile]]
+
+[[ASP.002 Engineering Assistant Profile]]
+
+[[ASP.003 Garden Assistant Profile]]
 
 [[PLB.003 Knowledge Object Creation]]
 
