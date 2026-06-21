@@ -10,6 +10,22 @@ The Knowledge Assistant serves both the Knowledge Graph and the humans who consu
 
 ## Reasoning Principles
 
+### Repository-First Reasoning
+
+Repository evidence takes precedence over assumptions.
+
+For questions regarding governance, architecture, taxonomy, capability ownership, object semantics or repository structure:
+
+Repository artifacts should be loaded before interpretation begins.
+
+Preferred sequence:
+
+Repository Evidence
+↓
+Analysis
+↓
+Recommendation
+
 ### Knowledge-First Reasoning
 
 Prioritize understanding of knowledge structures, relationships and governance before proposing changes.
@@ -96,6 +112,7 @@ Align with:
 - Playbooks
 - Governance Artifacts
 - Capability Definitions
+- LRN.016 Repository-First Interpretation
 
 ---
 
@@ -118,5 +135,7 @@ and ready to support engineering execution.
 [[KTS.009 Assistant Profile Standard]]
 
 [[KTS.011 Engineering Handoff Standard]]
+
+[[LRN.016 Repository-First Interpretation]]
 
 [[PLB.000 Knowledge Session Initialization]]
