@@ -1,15 +1,8 @@
-# PLB.001 Capability Governance Review
+# PLB.001 Capability Creation and Governance Playbook
 
 ## Purpose
 
-Provide a repeatable process for assessing, evolving, prioritizing and governing capabilities.
-
-## Preconditions
-
-- Relevant capability exists or is proposed
-- Capability Governance is available
-- Relevant ADRs are available
-- Relevant Roadmaps are available
+Provide a repeatable process for creating, assessing, evolving, prioritizing and governing capabilities.
 
 ## Process
 
@@ -24,7 +17,18 @@ Load:
 - Related Opportunities
 - Related Constraints
 
-### Step 2 – Assess Capability State
+### Step 2 – Determine Activity
+
+Classify the activity as:
+
+- Create
+- Assess
+- Enhance
+- Consolidate
+- Retire
+- Migrate
+
+### Step 3 – Assess Capability State
 
 Evaluate:
 
@@ -34,7 +38,7 @@ Evaluate:
 - Agentic Relevance
 - Current Bottlenecks
 
-### Step 3 – Review Relationships
+### Step 4 – Review Relationships
 
 Validate relationships to:
 
@@ -44,7 +48,7 @@ Validate relationships to:
 - ADRs
 - Related Capabilities
 
-### Step 4 – Identify Gaps
+### Step 5 – Identify Gaps
 
 Identify:
 
@@ -54,7 +58,7 @@ Identify:
 - Missing roadmap alignment
 - Ownership ambiguities
 
-### Step 5 – Evaluate Evolution Options
+### Step 6 – Evaluate Evolution Options
 
 Determine:
 
@@ -65,7 +69,7 @@ Determine:
 - Retire
 - Migrate
 
-### Step 6 – Make Recommendation
+### Step 7 – Make Recommendation
 
 Provide:
 
@@ -73,16 +77,6 @@ Provide:
 - Recommended actions
 - Governance implications
 - Roadmap implications
-
-## Success Criteria
-
-Capabilities are:
-
-- governed
-- prioritized
-- traceable
-- roadmap-aligned
-- evolution-ready
 
 ## Related
 
