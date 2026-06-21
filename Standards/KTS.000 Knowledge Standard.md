@@ -75,6 +75,13 @@ Before execution:
 3. Load Playbook.
 4. Execute activity.
 
+### V9
+
+Knowledge Object lifecycle activities shall use the appropriate Playbook.
+
+- Create Knowledge Object → PLB.003 Knowledge Object Creation
+- Modify Knowledge Object → PLB.013 Knowledge Object Modification
+
 ## Related
 
 [[KTS.009 Assistant Profile Standard]]
@@ -88,5 +95,7 @@ Before execution:
 [[PLB.000 Knowledge Session Initialization]]
 
 [[PLB.003 Knowledge Object Creation]]
+
+[[PLB.013 Knowledge Object Modification]]
 
 [[EID.08 Knowledge Intelligence]]
