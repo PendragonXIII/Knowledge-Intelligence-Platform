@@ -1,6 +1,6 @@
 ## Status
 
-Proposed
+Implemented
 
 ## Problem
 
@@ -43,3 +43,9 @@ Engineering recommendations incorporate repository knowledge and knowledge layer
 [[OP.001 Knowledge Intelligence Service]]
 
 [[ADR.001 Knowledge Intelligence belongs to Engineering Intelligence]]
+
+[[ASP.002 Engineering Assistant Profile]]
+
+[[ADR.010 Knowledge Planning Precedes Engineering Execution]]
+
+[[KTS.011 Engineering Handoff Standard]]
