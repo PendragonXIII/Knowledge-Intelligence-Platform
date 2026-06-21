@@ -72,6 +72,14 @@ Save the knowledge object within the knowledge repository.
 
 Include the knowledge object in future governance reviews.
 
+## Lifecycle Note
+
+PLB.003 governs creation of new knowledge objects.
+
+Modifications to existing knowledge objects should be governed by:
+
+[[PLB.013 Knowledge Object Modification]]
+
 ## Success Criteria
 
 Knowledge objects are:
@@ -96,3 +104,5 @@ Knowledge objects are:
 [[LRN.014 Repository Object Creation Requires ID Validation]]
 
 [[PLB.002 Session-to-Knowledge Extraction]]
+
+[[PLB.013 Knowledge Object Modification]]
