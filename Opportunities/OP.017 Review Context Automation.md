@@ -1,5 +1,9 @@
 # OP.017 Review Context Automation
 
+## Status
+
+In Progress
+
 ## Purpose
 
 Automatisiere Governance Reviews durch Nutzung des Review Context Endpoints.
@@ -33,3 +37,5 @@ Diese Opportunity etabliert die Fähigkeit, Governance Reviews automatisch auf B
 [[CNS.005 Knowledge Object Standards]]
 
 [[EID.08 Knowledge Intelligence]]
+
+[[KTS.011 Engineering Handoff Standard]]
