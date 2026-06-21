@@ -8,7 +8,7 @@ Compare extracted knowledge candidates against the Knowledge Repository to ident
 
 ## Current State
 
-Proposed
+Operational
 
 ## North Star
 
