@@ -40,6 +40,10 @@ Establish the initial knowledge model, governance structure and knowledge graph.
 - All EID capabilities use the approved capability schema
 - Every knowledge object contains at least three relationships
 
+### Roadmap Items
+
+- [[RMI.001 Knowledge Repository Population]]
+
 ---
 
 ## Phase 2 – Knowledge Generation
@@ -211,5 +215,7 @@ Not Started
 [[PLB.003 Knowledge Object Creation]]
 
 [[OP.001 Knowledge Intelligence Service]]
+
+[[RMI.001 Knowledge Repository Population]]
 
 ---
