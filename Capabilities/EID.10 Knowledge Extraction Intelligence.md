@@ -8,7 +8,7 @@ Extract structured knowledge candidates from repositories, engineering artifacts
 
 ## Current State
 
-Proposed
+Operational
 
 ## North Star
 
