@@ -57,7 +57,17 @@ Validate alignment between:
 - Playbooks
 - Capability structures
 
-### Step 6 – Findings Classification
+### Step 6 – Repository Structure Review
+
+Validate:
+
+- Folder consistency
+- Duplicate folders
+- Naming consistency
+- Object discoverability
+- Repository topology alignment
+
+### Step 7 – Findings Classification
 
 Classify findings as:
 
@@ -68,7 +78,7 @@ Classify findings as:
 - STRUCTURE_INCONSISTENCY
 - ARCHITECTURE_MISMATCH
 
-### Step 7 – Recommendations
+### Step 8 – Recommendations
 
 Provide:
 
