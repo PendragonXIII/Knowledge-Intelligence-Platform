@@ -1,6 +1,6 @@
 ## Status
 
-Proposed
+Partially Implemented
 
 ## Problem
 
@@ -69,6 +69,8 @@ High
 ## Related Playbooks
 
 [[PLB.005 Knowledge Intelligence Service Lifecycle]]
+
+[[PLB.013 Knowledge Object Modification]]
 
 ## Related
 
