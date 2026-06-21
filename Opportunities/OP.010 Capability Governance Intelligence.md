@@ -1,6 +1,6 @@
 ## Status
 
-Proposed
+In Progress
 
 ## Problem
 
@@ -40,3 +40,7 @@ Capability reviews identify governance improvements and architectural recommenda
 [[ADR.001 Knowledge Intelligence belongs to Engineering Intelligence]]
 
 [[OP.004 Engineering Decision Intelligence]]
+
+[[ADR.008 Assistant-Specific Capability Domains]]
+
+[[KTS.001 Capability Standard]]
