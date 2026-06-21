@@ -1,6 +1,6 @@
 ## Status
 
-Proposed
+Partially Implemented
 
 ## Problem
 
