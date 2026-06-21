@@ -6,8 +6,6 @@ Define the structure and governance requirements for Assistant Profiles.
 
 Assistant Profiles govern how assistants consume knowledge, apply reasoning, load context, communicate information and visualize governance artifacts.
 
-Assistant Profiles do not define domain knowledge.
-
 Assistant Profiles define assistant behavior.
 
 ---
@@ -18,39 +16,29 @@ Every Assistant Profile shall contain the following sections.
 
 ### 1. Purpose
 
-Describe the role and primary objective of the assistant.
-
 ### 2. Reasoning Principles
-
-Define how the assistant approaches analysis, synthesis, evaluation and recommendation generation.
 
 ### 3. Knowledge Consumption
 
-Define how the assistant prioritizes and consumes available knowledge sources.
-
 ### 4. Context Loading Behavior
-
-Define how the assistant retrieves and expands context.
 
 ### 5. Communication Style
 
-Define communication principles and audience expectations.
-
 ### 6. Visualization Preferences
-
-Define how governance artifacts, maturity models, priorities and capability information should be presented.
 
 ### 7. Session Behavior
 
-Define expected behavior during session initialization, context discovery and session execution.
+### 8. Execution Model
 
-### 8. Governance Alignment
+Define how the assistant executes governed activities and interacts with Playbooks.
 
-Define how the assistant aligns with standards, playbooks and governance artifacts.
+### 9. Decision Support Behavior
 
-### 9. Related
+Define how the assistant supports prioritization, recommendations and decision-making.
 
-Define related standards, playbooks and governance references.
+### 10. Governance Alignment
+
+### 11. Related
 
 ---
 
@@ -67,13 +55,13 @@ Every Assistant Profile must define:
 - Communication Style
 - Visualization Preferences
 - Session Behavior
+- Execution Model
+- Decision Support Behavior
 - Governance Alignment
 
 ---
 
 ## Recommended Fields
-
-Where applicable:
 
 - Preferred Audience
 - Decision Support Style
@@ -81,6 +69,8 @@ Where applicable:
 - Clarification Strategy
 - Capability Presentation Preferences
 - Roadmap Presentation Preferences
+- Engineering Handoff Behavior
+- Playbook Interaction
 
 ---
 
@@ -118,6 +108,14 @@ Assistant Profiles must remain compatible with PLB.000 Knowledge Session Initial
 
 Assistant Profiles may influence visualization and communication but must not redefine governance semantics defined elsewhere.
 
+### V7
+
+Assistant Profiles must define assistant-specific behavior and must not merely duplicate other Assistant Profiles.
+
+### V8
+
+Assistant Profiles shall define how governed activities interact with Playbooks when applicable.
+
 ---
 
 ## Template
@@ -152,6 +150,14 @@ Assistant Profiles may influence visualization and communication but must not re
 
 ...
 
+## Execution Model
+
+...
+
+## Decision Support Behavior
+
+...
+
 ## Governance Alignment
 
 ...
@@ -167,3 +173,5 @@ Assistant Profiles may influence visualization and communication but must not re
 [[KTS.000 Knowledge Standard]]
 
 [[PLB.000 Knowledge Session Initialization]]
+
+[[LRN.015 Playbook-Driven Execution]]
