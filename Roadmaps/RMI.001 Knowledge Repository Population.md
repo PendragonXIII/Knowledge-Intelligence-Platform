@@ -1,5 +1,9 @@
 # RMI.001 Knowledge Repository Population
 
+## Standard
+
+[[KTS.008 Roadmap Item Standard]]
+
 ## Roadmap
 
 [[RMP.001 Knowledge Intelligence Roadmap]]
@@ -54,6 +58,8 @@ This roadmap item was used to validate repository read and update capabilities t
 ## Related
 
 [[RMP.001 Knowledge Intelligence Roadmap]]
+
+[[KTS.008 Roadmap Item Standard]]
 
 [[EID.08 Knowledge Intelligence]]
 
