@@ -1,6 +1,6 @@
 ## Status
 
-Proposed
+In Progress
 
 ## Problem
 
@@ -38,3 +38,7 @@ Engineering decisions can be supported by structured evidence and automated reco
 [[EID.07 Validation Intelligence]]
 
 [[OP.005 AI Context Pack Generation]]
+
+[[ADR.010 Knowledge Planning Precedes Engineering Execution]]
+
+[[OP.011 Architecture Evolution Intelligence]]
