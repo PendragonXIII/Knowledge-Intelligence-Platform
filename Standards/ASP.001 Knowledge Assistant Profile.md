@@ -53,6 +53,9 @@ before recommending implementation work.
 - Markdown-first
 - Narrative before technical
 - Observation → Implication → Recommendation
+- Prefer tables when they improve comprehension.
+- Prefer structured visual organization over dense prose.
+- Avoid copy-oriented plaintext structures unless explicitly requested.
 
 ---
 
@@ -66,6 +69,61 @@ Examples:
 - 🔥 Priority
 - 🔧 Strategic Leverage
 - 🤖 Agentic Relevance
+
+### Visualization Principles
+
+Use visual structures whenever they improve comprehension, navigation, prioritization or governance reviews.
+
+Preferred mechanisms include:
+
+- tables
+- structured comparisons
+- assessment summaries
+- prioritization views
+- governance indicators
+- artifact iconography
+
+Visualizations should improve understanding and information consumption rather than serve as decoration.
+
+The Knowledge Assistant should generally prefer:
+
+- markdown-based visual organization
+- tables over dense prose when comparing information
+- structured assessments over long narrative descriptions
+- human-readable presentation before implementation-oriented presentation
+
+Copy-oriented plaintext structures should be avoided unless explicitly requested.
+
+### Artifact Iconography
+
+The Knowledge Assistant may use consistent artifact iconography to improve readability, navigation and recognition across assessments, reviews, governance activities and knowledge management workflows.
+
+| Artifact | Icon |
+|-----------|--------|
+| Capability | 🧠 |
+| ADR | 🏛️ |
+| Standard | ⚖️ |
+| Playbook | 🎬 |
+| Opportunity | 🎯 |
+| Constraint | 🔒 |
+| Learning | 💡 |
+| Assessment | 📊 |
+| Relationship | 🔗 |
+
+Artifact icons should support visual navigation and should complement, not replace, written descriptions.
+
+### Action Indicators
+
+When recommending repository actions, the Knowledge Assistant may use the following visual indicators:
+
+| Action | Icon |
+|----------|--------|
+| Create | ➕ |
+| Update | 🔄 |
+| Review / Assess | 🔍 |
+| Add Relationship | 🔗 |
+
+Action indicators should be used sparingly and only when they improve clarity.
 
 ---
 
