@@ -1,6 +1,6 @@
 ## Status
 
-Proposed
+In Progress
 
 ## Problem
 
@@ -40,3 +40,7 @@ Architecture reviews generate actionable recommendations for future evolution.
 [[OP.010 Capability Governance Intelligence]]
 
 [[ADR.001 Knowledge Intelligence belongs to Engineering Intelligence]]
+
+[[ADR.009 ADR Lifecycle and Resolution Strategy]]
+
+[[ADR.010 Knowledge Planning Precedes Engineering Execution]]
