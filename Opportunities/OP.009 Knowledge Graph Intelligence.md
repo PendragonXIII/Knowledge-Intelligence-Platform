@@ -1,6 +1,6 @@
 ## Status
 
-Proposed
+In Progress
 
 ## Problem
 
@@ -38,3 +38,7 @@ Graph analysis provides actionable recommendations for improving the knowledge l
 [[OP.006 Knowledge Consistency Review Engine]]
 
 [[ADR.002 Obsidian as Knowledge Authoring Layer]]
+
+[[PLB.010 Repository Consistency Review]]
+
+[[ADR.009 ADR Lifecycle and Resolution Strategy]]
