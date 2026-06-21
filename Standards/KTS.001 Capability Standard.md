@@ -14,6 +14,12 @@ Supported domains:
 
 Capability ownership shall align with ADR.008 Assistant-Specific Capability Domains.
 
+## Human-Centered Capability Design
+
+Capability governance should consider both system objectives and human usability needs.
+
+Decision support, navigation, prioritization, visualization and cognitive accessibility may influence capability design and evaluation.
+
 ## Mandatory Fields
 
 - Purpose
@@ -33,6 +39,7 @@ Capability ownership shall align with ADR.008 Assistant-Specific Capability Doma
 
 - Scope
 - Consumers
+- Human Need
 
 ## Validation Rules
 
@@ -60,6 +67,9 @@ Optional fields may be omitted.
 ### V8
 Capability identifier prefix must match the owning capability domain.
 
+### V9
+Capability design should consider relevant human usability requirements when applicable.
+
 ## Template
 
 ### Purpose
@@ -71,6 +81,8 @@ Capability identifier prefix must match the owning capability domain.
 ### North Star
 
 ### Agentic Contribution
+
+### Human Need
 
 ### Outcomes
 
@@ -97,6 +109,10 @@ Capability identifier prefix must match the owning capability domain.
 ## Related
 
 [[ADR.008 Assistant-Specific Capability Domains]]
+
+[[ADR.010 Knowledge Planning Precedes Engineering Execution]]
+
+[[LRN.012 Human Needs Influence Knowledge Design]]
 
 [[KTS.010 Knowledge Object Identifier Standard]]
 
