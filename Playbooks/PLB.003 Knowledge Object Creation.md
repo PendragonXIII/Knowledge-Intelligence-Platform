@@ -10,66 +10,65 @@ Select the appropriate knowledge object type.
 
 Examples:
 
-- Capability    
-- Opportunity    
-- Constraint    
-- Learning    
-- ADR    
-- Playbook    
-- Roadmap    
+- Capability
+- Opportunity
+- Constraint
+- Learning
+- ADR
+- Playbook
+- Roadmap
+- Assistant Profile
 
 ### Step 2 – Select Knowledge Template Standard
 
 Identify the applicable Knowledge Template Standard (KTS).
 
-Examples:
+### Step 3 – Pre-Creation Validation
 
-- KTS.001 Capability Standard    
-- KTS.002 Opportunity Standard    
-- KTS.003 Constraint Standard    
-- KTS.004 Learning Standard    
-- KTS.005 ADR Standard    
-- KTS.006 Playbook Standard    
-- KTS.007 Roadmap Standard    
+Before creating a new object:
 
-### Step 3 – Assign Identifier
+1. Determine the object type.
+2. Load existing objects of the same type.
+3. Identify the highest existing identifier.
+4. Allocate the next available identifier.
+5. Validate the naming convention.
+6. Validate the object prefix.
 
-Assign a unique identifier according to the applicable naming convention.
+### Step 4 – Assign Identifier
 
-### Step 4 – Reference Standard
+Assign the validated unique identifier according to the applicable naming convention.
+
+### Step 5 – Reference Standard
 
 Add a Standard section referencing the governing KTS document.
 
-Example:
-
-[[KTS.001 Capability Standard]]
-
-### Step 5 – Create Knowledge Object
+### Step 6 – Create Knowledge Object
 
 Create the knowledge object using the selected KTS structure.
 
-### Step 6 – Complete Mandatory Fields
+### Step 7 – Complete Mandatory Fields
 
 Complete all mandatory fields defined by the governing KTS.
 
-### Step 7 – Establish Relationships
+### Step 8 – Establish Relationships
 
 Create at least three meaningful relationships to existing knowledge objects.
 
-### Step 8 – Validate Consistency
+### Step 9 – Validate Consistency
 
 Validate consistency against:
 
-- CNS.005 Knowledge Object Standards    
-- Applicable KTS    
-- Existing knowledge objects    
-- Existing governance decisions    
+- CNS.005 Knowledge Object Standards
+- Applicable KTS
+- Existing knowledge objects
+- Existing governance decisions
+- Identifier conventions
 
-### Step 9 – Save Knowledge Object
+### Step 10 – Save Knowledge Object
 
 Save the knowledge object within the knowledge repository.
 
-### Step 10 – Include In Governance Review
+### Step 11 – Include In Governance Review
 
 Include the knowledge object in future governance reviews.
 
@@ -77,20 +76,23 @@ Include the knowledge object in future governance reviews.
 
 Knowledge objects are:
 
-- standardized    
-- governed    
-- connected    
+- standardized
+- governed
+- connected
 - discoverable
-- reusable    
-- AI-consumable    
-- traceable    
+- reusable
+- AI-consumable
+- traceable
+- uniquely identified
 
 ## Related
 
-[[CNS.005 Knowledge Object Standards]]
+[[KTS.000 Knowledge Standard]]
 
-[[KTS.000 Knowledge Standard Standard]]
+[[KTS.009 Assistant Profile Standard]]
 
-[[EID.08 Knowledge Intelligence]]
+[[KTS.010 Knowledge Object Identifier Standard]]
+
+[[LRN.014 Repository Object Creation Requires ID Validation]]
 
 [[PLB.002 Session-to-Knowledge Extraction]]
