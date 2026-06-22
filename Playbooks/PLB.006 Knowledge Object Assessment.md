@@ -85,4 +85,6 @@ Knowledge objects are:
 
 [[PLB.003 Knowledge Object Creation]]
 
+[[PLB.009 Legacy Artifact Assessment]]
+
 [[CNS.005 Knowledge Object Standards]]
