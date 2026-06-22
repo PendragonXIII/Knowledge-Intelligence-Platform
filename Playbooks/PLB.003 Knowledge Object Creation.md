@@ -11,6 +11,7 @@ Select the appropriate knowledge object type.
 Examples:
 
 - Capability
+- Engineering Component
 - Opportunity
 - Constraint
 - Learning
@@ -100,6 +101,8 @@ Knowledge objects are:
 [[KTS.009 Assistant Profile Standard]]
 
 [[KTS.010 Knowledge Object Identifier Standard]]
+
+[[KTS.012 Engineering Component Standard]]
 
 [[LRN.014 Repository Object Creation Requires ID Validation]]
 
