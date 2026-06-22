@@ -27,6 +27,40 @@ Operational
 - Decision Recommendations
 - Prioritization Guidance
 
+## Related Engineering Components
+
+[[CMP.005 Engineering Decision Support]]
+
+[[CMP.014 Change Impact Assessment]]
+
+[[CMP.006 Engineering Opportunity Management]]
+
+## Component Contribution
+
+### CMP.005 Engineering Decision Support
+
+Provides:
+
+- Decision preparation
+- Engineering assessment support
+- Prioritization guidance
+
+### CMP.014 Change Impact Assessment
+
+Provides:
+
+- Impact analysis
+- Dependency assessment
+- Verification recommendations
+
+### CMP.006 Engineering Opportunity Management
+
+Provides:
+
+- Improvement identification
+- Opportunity aggregation
+- Engineering investment visibility
+
 ## Key Questions
 
 - What could break?
@@ -55,5 +89,3 @@ Provide AI-assisted engineering decision support based on repository context, ca
 [[EID.07 Validation Intelligence]]
 
 [[EID.08 Knowledge Intelligence]]
-
-[[PLB.001 Capability Creation Playbook]]
