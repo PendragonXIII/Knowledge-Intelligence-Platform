@@ -33,6 +33,10 @@ KID.xxx = Knowledge Intelligence Domain
 
 GID.xxx = Garden Intelligence Domain
 
+### Engineering Components
+
+CMP.xxx
+
 ### Learnings
 
 LRN.xxx
@@ -90,6 +94,8 @@ Object type and identifier prefix must match.
 [[KTS.001 Capability Standard]]
 
 [[KTS.000 Knowledge Standard]]
+
+[[KTS.012 Engineering Component Standard]]
 
 [[PLB.003 Knowledge Object Creation]]
 
