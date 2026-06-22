@@ -43,6 +43,7 @@ Establish the ability to:
 Supported object types include:
 
 - Capabilities
+- Engineering Components
 - Opportunities
 - Constraints
 - Learnings
@@ -166,6 +167,18 @@ Knowledge Intelligence Services provide the operational interface between AI age
 - Architecture Processes
 - Opportunity Management Processes
 - Future Garden AI Agents
+
+## Related Engineering Components
+
+[[CMP.010 Knowledge Assistant Integration]]
+
+[[CMP.011 Engineering Session Initialization]]
+
+[[CMP.012 Knowledge Synchronization]]
+
+[[CMP.003 Engineering Context Generation]]
+
+[[CMP.005 Engineering Decision Support]]
 
 ## Related Opportunities
 
