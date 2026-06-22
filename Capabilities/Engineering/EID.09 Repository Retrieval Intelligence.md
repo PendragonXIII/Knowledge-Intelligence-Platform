@@ -99,6 +99,14 @@ Services may support:
 - Governance Assistant
 - Future Garden AI Agents
 
+## Related Engineering Components
+
+[[CMP.001 Repository Reader]]
+
+[[CMP.004 Repository Interpretation]]
+
+[[CMP.009 Repository Intelligence API]]
+
 ## Related
 
 [[EID.01 Repository Intelligence]]
