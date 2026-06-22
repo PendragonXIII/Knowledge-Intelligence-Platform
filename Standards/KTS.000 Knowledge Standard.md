@@ -2,6 +2,19 @@
 
 Define the structure and governance requirements for Knowledge Template Standards (KTS).
 
+## Governed Knowledge Object Types
+
+- Capability
+- Engineering Component
+- Learning
+- Opportunity
+- Constraint
+- Assistant Profile
+- Knowledge Template Standard
+- Playbook
+- Architecture Decision
+- Roadmap
+
 ## Standard Structure
 
 Every Knowledge Template Standard shall contain the following sections.
@@ -80,13 +93,15 @@ Before execution:
 Knowledge Object lifecycle activities shall use the appropriate Playbook.
 
 - Create Knowledge Object → PLB.003 Knowledge Object Creation
-- Modify Knowledge Object → PLB.013 Knowledge Object Modification
+- Modify Knowledge Object → PLB.008 Knowledge Object Modification
 
 ## Related
 
 [[KTS.009 Assistant Profile Standard]]
 
 [[KTS.010 Knowledge Object Identifier Standard]]
+
+[[KTS.012 Engineering Component Standard]]
 
 [[LRN.015 Playbook-Driven Execution]]
 
