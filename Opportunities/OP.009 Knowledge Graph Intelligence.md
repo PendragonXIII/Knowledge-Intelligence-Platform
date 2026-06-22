@@ -39,6 +39,6 @@ Graph analysis provides actionable recommendations for improving the knowledge l
 
 [[ADR.002 Obsidian as Knowledge Authoring Layer]]
 
-[[PLB.010 Repository Consistency Review]]
+[[PLB.007 Repository Consistency Review]]
 
 [[ADR.009 ADR Lifecycle and Resolution Strategy]]

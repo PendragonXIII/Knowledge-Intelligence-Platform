@@ -37,6 +37,6 @@ Synchronization reviews identify inconsistencies and missing updates.
 
 [[CNS.001 Knowledge Source of Truth]]
 
-[[PLB.010 Repository Consistency Review]]
+[[PLB.007 Repository Consistency Review]]
 
 [[OP.006 Knowledge Consistency Review Engine]]

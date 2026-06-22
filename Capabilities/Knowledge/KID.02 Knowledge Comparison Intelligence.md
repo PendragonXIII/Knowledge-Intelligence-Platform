@@ -129,7 +129,7 @@ Services may support:
 
 [[EID.09 Repository Retrieval Intelligence]]
 
-[[EID.10 Knowledge Extraction Intelligence]]
+[[KID.01 Knowledge Extraction Intelligence]]
 
 [[EID.04 Governance Intelligence]]
 

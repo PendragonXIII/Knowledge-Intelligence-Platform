@@ -54,6 +54,6 @@ Repository modifications become safer, more traceable and less likely to introdu
 
 ## Related
 
-[[PLB.013 Knowledge Object Modification]]
+[[PLB.008 Knowledge Object Modification]]
 
-[[PLB.010 Repository Consistency Review]]
+[[PLB.007 Repository Consistency Review]]

@@ -1,5 +1,3 @@
-# PLB.010 Repository Consistency Review
-
 ## Purpose
 
 Provide a repeatable process for assessing the internal consistency, governance quality and structural integrity of the Knowledge Repository.

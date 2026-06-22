@@ -42,6 +42,6 @@ Consistency reviews identify actionable findings and governance recommendations.
 
 [[PLB.002 Session-to-Knowledge Extraction]]
 
-[[PLB.010 Repository Consistency Review]]
+[[PLB.007 Repository Consistency Review]]
 
 [[OP.014 Knowledge Validation Service]]

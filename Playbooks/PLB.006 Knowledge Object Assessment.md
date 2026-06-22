@@ -1,5 +1,3 @@
-# PLB.004 Knowledge Object Assessment
-
 ## Purpose
 
 Provide a repeatable process for evaluating whether a candidate knowledge item should be added to the Knowledge Repository and how it should be represented.

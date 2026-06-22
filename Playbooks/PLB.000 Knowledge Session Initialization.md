@@ -118,7 +118,7 @@ A session is initialized when:
 
 [[PLB.003 Knowledge Object Creation]]
 
-[[PLB.013 Knowledge Object Modification]]
+[[PLB.008 Knowledge Object Modification]]
 
 [[ASP.001 Knowledge Assistant Profile]]
 

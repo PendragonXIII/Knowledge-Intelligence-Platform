@@ -70,7 +70,7 @@ High
 
 [[PLB.005 Knowledge Intelligence Service Lifecycle]]
 
-[[PLB.013 Knowledge Object Modification]]
+[[PLB.008 Knowledge Object Modification]]
 
 ## Related
 

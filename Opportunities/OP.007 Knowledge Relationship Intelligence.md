@@ -39,7 +39,7 @@ Relationship recommendations measurably improve graph connectivity and discovera
 
 [[ADR.003 Knowledge Objects as the Primary Unit of Knowledge]]
 
-[[PLB.013 Knowledge Object Modification]]
+[[PLB.008 Knowledge Object Modification]]
 
 [[LRN.014 Repository Object Creation Requires ID Validation]]
 

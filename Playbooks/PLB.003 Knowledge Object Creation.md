@@ -78,7 +78,7 @@ PLB.003 governs creation of new knowledge objects.
 
 Modifications to existing knowledge objects should be governed by:
 
-[[PLB.013 Knowledge Object Modification]]
+[[PLB.008 Knowledge Object Modification]]
 
 ## Success Criteria
 
@@ -105,4 +105,4 @@ Knowledge objects are:
 
 [[PLB.002 Session-to-Knowledge Extraction]]
 
-[[PLB.013 Knowledge Object Modification]]
+[[PLB.008 Knowledge Object Modification]]

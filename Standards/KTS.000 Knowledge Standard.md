@@ -96,6 +96,6 @@ Knowledge Object lifecycle activities shall use the appropriate Playbook.
 
 [[PLB.003 Knowledge Object Creation]]
 
-[[PLB.013 Knowledge Object Modification]]
+[[PLB.008 Knowledge Object Modification]]
 
 [[EID.08 Knowledge Intelligence]]

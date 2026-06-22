@@ -28,7 +28,7 @@ Knowledge generated during sessions becomes:
 
 ## Related
 
-[[PLB.004 Knowledge Object Assessment]]
+[[PLB.006 Knowledge Object Assessment]]
 
 [[PLB.003 Knowledge Object Creation]]
 

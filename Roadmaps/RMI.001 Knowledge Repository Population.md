@@ -67,4 +67,4 @@ This roadmap item was used to validate repository read and update capabilities t
 
 [[OP.008 Session Mining & Knowledge Extraction]]
 
-[[PLB.004 Knowledge Object Assessment]]
+[[PLB.006 Knowledge Object Assessment]]

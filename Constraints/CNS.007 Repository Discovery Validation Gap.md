@@ -1,5 +1,3 @@
-# CNS.001 Repository Discovery Validation Gap
-
 ## Constraint
 
 Repository discovery and repository search capabilities could not be reliably validated during governance work.

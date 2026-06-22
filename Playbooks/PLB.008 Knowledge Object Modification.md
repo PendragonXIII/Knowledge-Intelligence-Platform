@@ -1,5 +1,3 @@
-# PLB.013 Knowledge Object Modification
-
 ## Purpose
 
 Provide a governed process for modifying existing Knowledge Objects while preventing accidental loss of content, relationships or governance information.
@@ -91,4 +89,4 @@ The modified object:
 
 [[PLB.003 Knowledge Object Creation]]
 
-[[PLB.010 Repository Consistency Review]]
+[[PLB.007 Repository Consistency Review]]

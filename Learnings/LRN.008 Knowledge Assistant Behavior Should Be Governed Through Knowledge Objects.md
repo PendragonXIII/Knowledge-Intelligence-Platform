@@ -32,7 +32,7 @@ Improves:
 
 ## Related
 
-[[PLB.004 Knowledge Object Assessment]]
+[[PLB.006 Knowledge Object Assessment]]
 
 [[EID.08 Knowledge Intelligence]]
 
