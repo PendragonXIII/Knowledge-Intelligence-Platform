@@ -26,6 +26,8 @@ Repository Resolution Validation
 ↓
 Repository Evidence Loading
 ↓
+Governance Verification
+↓
 Context Expansion
 ↓
 Execution
@@ -44,6 +46,21 @@ Before loading referenced repository artifacts:
 Repository evidence shall not be assumed to exist solely because an identifier was provided.
 
 When ambiguity exists, repository structure takes precedence over assumptions.
+
+## Governance Verification
+
+Before substantive analysis or execution begins verify:
+
+1. Active Assistant Profile has been loaded.
+2. Governing Playbook has been loaded when available.
+3. Required standards have been reviewed.
+4. Repository Resolution Validation has been completed.
+5. Required repository evidence has been loaded.
+6. Required context has been reviewed.
+
+Loaded governance shall be explicitly verified before execution.
+
+Governance assumed but not verified shall not be treated as active context.
 
 ## Repository-First Interpretation
 
@@ -101,7 +118,8 @@ For every governed activity:
 3. Load Playbook.
 4. Validate repository resolution for required artifacts.
 5. Load repository evidence required by the Playbook.
-6. Execute activity.
+6. Verify governance context.
+7. Execute activity.
 
 ### Knowledge Object Lifecycle
 
@@ -115,6 +133,7 @@ Before execution verify:
 - assistant profile loaded
 - governing playbook loaded
 - repository resolution validated
+- governance verified
 - repository evidence reviewed
 - required context reviewed
 
@@ -127,6 +146,7 @@ A session is initialized when:
 - governing playbook is identified
 - governing playbook is loaded
 - repository resolution is validated
+- governance is verified
 - repository evidence is loaded
 - required context is available
 
