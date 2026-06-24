@@ -15,6 +15,52 @@ Define the structure and governance requirements for Knowledge Template Standard
 - Architecture Decision
 - Roadmap
 
+## Knowledge Object Responsibilities
+
+### Capability
+
+Defines what organizational or engineering capability exists and is owned.
+
+### Engineering Component
+
+Documents architecture building blocks, responsibilities and implementation-oriented decomposition.
+
+Engineering Components describe architecture and implementation structure.
+
+Engineering Components do not define runtime governance, assistant behavior or governed execution processes.
+
+### Learning
+
+Captures validated observations, lessons and evidence-derived insights.
+
+### Opportunity
+
+Captures potential future improvements, initiatives and investment candidates.
+
+### Constraint
+
+Captures limitations, boundaries and governing restrictions.
+
+### Assistant Profile
+
+Defines assistant behavior, reasoning, context consumption and execution preferences.
+
+### Knowledge Template Standard
+
+Defines governance requirements for a knowledge object type.
+
+### Playbook
+
+Defines governed processes, execution steps, validations and activity workflows.
+
+### Architecture Decision
+
+Captures approved architectural decisions and rationale.
+
+### Roadmap
+
+Defines planned strategic direction and future sequencing of work.
+
 ## Standard Structure
 
 Every Knowledge Template Standard shall contain the following sections.
