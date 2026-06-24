@@ -38,3 +38,21 @@ Recommendation
 ## Outcome
 
 Knowledge interpretation becomes repository-backed, traceable and governance-aligned.
+
+## Related
+
+### Capabilities
+
+[[EID.09 Repository Retrieval Intelligence]]
+
+[[EID.04 Governance Intelligence]]
+
+[[EID.08 Knowledge Intelligence]]
+
+### Playbooks
+
+[[PLB.000 Knowledge Session Initialization]]
+
+### Assistant Profiles
+
+[[ASP.001 Knowledge Assistant Profile]]
