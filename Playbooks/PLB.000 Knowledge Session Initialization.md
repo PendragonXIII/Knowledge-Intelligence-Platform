@@ -22,11 +22,28 @@ Playbook Identification
 ↓
 Playbook Loading
 ↓
+Repository Resolution Validation
+↓
 Repository Evidence Loading
 ↓
 Context Expansion
 ↓
 Execution
+
+## Repository Resolution Validation
+
+Before loading referenced repository artifacts:
+
+1. Verify the target artifact exists.
+2. Verify the expected repository location.
+3. Inspect the relevant repository folder when object resolution fails.
+4. Identify potential naming changes or renamed artifacts.
+5. Identify candidate artifacts sharing the same identifier prefix.
+6. Resolve the canonical repository path before continuing.
+
+Repository evidence shall not be assumed to exist solely because an identifier was provided.
+
+When ambiguity exists, repository structure takes precedence over assumptions.
 
 ## Repository-First Interpretation
 
@@ -82,8 +99,9 @@ For every governed activity:
 1. Identify activity type.
 2. Identify governing Playbook.
 3. Load Playbook.
-4. Load repository evidence required by the Playbook.
-5. Execute activity.
+4. Validate repository resolution for required artifacts.
+5. Load repository evidence required by the Playbook.
+6. Execute activity.
 
 ### Knowledge Object Lifecycle
 
@@ -96,6 +114,7 @@ Before execution verify:
 
 - assistant profile loaded
 - governing playbook loaded
+- repository resolution validated
 - repository evidence reviewed
 - required context reviewed
 
@@ -107,6 +126,7 @@ A session is initialized when:
 - activity is identified
 - governing playbook is identified
 - governing playbook is loaded
+- repository resolution is validated
 - repository evidence is loaded
 - required context is available
 
