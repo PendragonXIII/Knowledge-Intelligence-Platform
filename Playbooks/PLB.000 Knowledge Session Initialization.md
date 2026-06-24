@@ -62,6 +62,28 @@ Loaded governance shall be explicitly verified before execution.
 
 Governance assumed but not verified shall not be treated as active context.
 
+## Activity Transition Validation
+
+When the activity type changes during a session:
+
+1. Identify the new activity.
+2. Determine the governing Playbook for the new activity.
+3. Perform Governance Verification for the new activity.
+4. Initialize the new activity before execution.
+
+Examples:
+
+- Review → Modification
+- Assessment → Creation
+- Analysis → Repository Update
+- Discovery → ADR Creation
+
+Findings and recommendations may lead to new activities.
+
+Recommendations shall not automatically trigger repository modifications.
+
+Repository modifications require explicit activation of the governing modification Playbook.
+
 ## Repository-First Interpretation
 
 For governance, architecture, taxonomy, capability ownership, object semantics and repository structure:
