@@ -14,6 +14,12 @@ Provide a governed process for modifying existing Knowledge Objects while preven
 
 Load the current object.
 
+Record:
+
+- line count
+- optional character count
+- optional section count
+
 ### Step 2 – Identify Intended Change
 
 Explicitly document:
@@ -34,15 +40,25 @@ Examples:
 - validation rules
 - architecture rationale
 
-### Step 4 – Apply Modification
+### Step 4 – Planned Change Validation
+
+Before writing, calculate:
+
+- projected line count
+- projected delta
+- expected preservation impact
+
+If the projected delta is inconsistent with the intended change, stop and review before continuing.
+
+### Step 5 – Apply Modification
 
 Apply only the intended changes.
 
-### Step 5 – Re-Read Object
+### Step 6 – Re-Read Object
 
-Load the updated object.
+Load the updated object when repository consistency permits.
 
-### Step 6 – Preservation Validation
+### Step 7 – Preservation Validation
 
 Verify:
 
@@ -51,7 +67,19 @@ Verify:
 - relationships remain present
 - governance content remains present
 
-### Step 7 – Consistency Validation
+### Step 8 – Delta Validation
+
+Compare:
+
+- original line count
+- planned line count
+- actual line count when available
+
+Report the delta as part of the modification outcome.
+
+Significant unexpected variance requires review before completion.
+
+### Step 9 – Consistency Validation
 
 Validate alignment with:
 
@@ -60,7 +88,7 @@ Validate alignment with:
 - related Playbooks
 - related Learnings
 
-### Step 8 – Commit
+### Step 10 – Commit
 
 Commit only after successful preservation validation.
 
@@ -74,6 +102,14 @@ Write
 
 without preservation validation.
 
+Read
+↓
+Large unexplained delta
+↓
+Write
+
+without delta assessment.
+
 ## Success Criteria
 
 The modified object:
@@ -82,6 +118,7 @@ The modified object:
 - preserves existing knowledge
 - remains governance compliant
 - remains internally consistent
+- includes modification delta assessment
 
 ## Related
 
